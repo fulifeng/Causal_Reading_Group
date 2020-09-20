@@ -18,6 +18,7 @@
 
 ## Causality in Machine Learning
 - [Double/Debiased/Neyman Machine Learning of Treatment Effects](https://arxiv.org/abs/1701.08687) (2017American Economic Review)
+- [Feature Selection as Causal Inference: Experiments with Text Classification](https://www.aclweb.org/anthology/K17-1018/) (2017CoNLL)
 
 ## Causality in Recommendation
 - [Learning Stable Graphs from Multiple Environments with Selection Bias](https://dl.acm.org/doi/abs/10.1145/3394486.3403270) (2020KDD)
