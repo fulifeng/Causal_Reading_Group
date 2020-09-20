@@ -2,8 +2,8 @@
 Here is the schedule of presenting in the reading group.
 
 ## Table of Contents
-- [1st Round (27 Sep 2020 - 10 Jan 2021)](#1st-Round)
-- [2nd Round (20 Feb 2020 - XX XXX 2021)](#2nd-Round)
+- [1st Round (27 Sep 2020 - 10 Jan 2021)](#1st-round-27-sep-2020---10-jan-2021)
+- [2nd Round (20 Feb 2020 - XX XXX 2021)](#2nd-round-20-feb-2020---xx-xxx-2021)
 
 ## 1st Round (27 Sep 2020 - 10 Jan 2021)
 | Date | Presenter | Paper |
