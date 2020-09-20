@@ -37,6 +37,6 @@ This is a list of papers about causality.
 - [More Grounded Image Captioning by Distilling Image-Text Matching Model](https://arxiv.org/abs/2004.00390) (2020CVPR)
 - [Visual Commonsense Representation Learning via Causal Inference](https://openaccess.thecvf.com/content_CVPRW_2020/html/w26/Wang_Visual_Commonsense_Representation_Learning_via_Causal_Inference_CVPRW_2020_paper.html) (2020CVPR)
 - [Counterfactual Samples Synthesizing for Robust Visual Question Answering](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Counterfactual_Samples_Synthesizing_for_Robust_Visual_Question_Answering_CVPR_2020_paper.html) (2020CVPR)
-- [Unbiased scene graph generation from biased training](https://openaccess.thecvf.com/content_CVPR_2020/html/Tang_Unbiased_Scene_Graph_Generation_From_Biased_Training_CVPR_2020_paper.html) (2020CVPR)
-- [Two causal principles for improving visual dialog](https://openaccess.thecvf.com/content_CVPR_2020/html/Qi_Two_Causal_Principles_for_Improving_Visual_Dialog_CVPR_2020_paper.html) (2020CVPR)
+- [Unbiased Scene Graph Generation From Biased Training](https://openaccess.thecvf.com/content_CVPR_2020/html/Tang_Unbiased_Scene_Graph_Generation_From_Biased_Training_CVPR_2020_paper.html) (2020CVPR)
+- [Two Causal Principles for Improving Visual Dialog](https://openaccess.thecvf.com/content_CVPR_2020/html/Qi_Two_Causal_Principles_for_Improving_Visual_Dialog_CVPR_2020_paper.html) (2020CVPR)
 
