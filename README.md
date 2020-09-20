@@ -1,4 +1,5 @@
 # Causal_Reading_Group
+This is a list of papers about causality.
 
 ## Table of Contents
 - [Survey paper](#survey-paper)
@@ -17,6 +18,7 @@
 - [Estimating individual treatment effect: generalization bounds and algorithms](https://arxiv.org/abs/1606.03976) (2017JMLR)
 
 ## Causality in Machine Learning
+- [Improving the accuracy of medical diagnosis with causal machine learning](https://www.nature.com/articles/s41467-020-17419-7) (2020Nature Communication)
 - [Double/Debiased/Neyman Machine Learning of Treatment Effects](https://arxiv.org/abs/1701.08687) (2017American Economic Review)
 - [Feature Selection as Causal Inference: Experiments with Text Classification](https://www.aclweb.org/anthology/K17-1018/) (2017CoNLL)
 
