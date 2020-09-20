@@ -6,7 +6,7 @@ This is a list of papers about causality.
 - [Foundamental Causality](#foundamental-causality)
 - [Causality in Machine Learning](#causality-in-machine-learning)
 - [Causality in Recommendation](#causality-in-recommendation)
-- [Causality in Computer Vision](#causality-in-computer vision)
+- [Causality in Computer Vision](#causality-in-computer-vision)
 
 
 
