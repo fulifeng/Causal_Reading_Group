@@ -2,13 +2,15 @@
 Here is the schedule of presenting in the reading group.
 
 ## Table of Contents
-- [1st Round (27 Sep 2020 - 10 Jan 2021)](#1st-round-27-sep-2020---10-jan-2021)
-- [2nd Round (20 Feb 2020 - XX XXX 2021)](#2nd-round-20-feb-2020---xx-xxx-2021)
+- [Schedule](#schedule)
+  - [Table of Contents](#table-of-contents)
+  - [1st Round (27 Sep 2020 - 10 Jan 2021)](#1st-round-27-sep-2020---10-jan-2021)
+  - [2nd Round (20 Feb 2020 - XX XXX 2021)](#2nd-round-20-feb-2020---xx-xxx-2021)
 
 ## 1st Round (27 Sep 2020 - 10 Jan 2021)
 | Date | Presenter | Paper |
 | :-----------: | :-----------: | :-----------: |
-| 27 Sep 2020 | 董汉德 | TBD |
+| 27 Sep 2020 | 董汉德 | [Learning Stable Graphs from Multiple Environments with Selection Bias](https://dl.acm.org/doi/abs/10.1145/3394486.3403270) (2020KDD) |
 | 04 Oct 2020 | 于佳睿 | TBD |
 | 11 Oct 2020 | WWW | Pass |
 | 18 Oct 2020 | 王晨旭 | TBD |
