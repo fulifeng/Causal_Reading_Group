@@ -11,9 +11,9 @@ Here is the schedule of presenting in the reading group.
 | Date | Presenter | Paper |
 | :-----------: | :-----------: | :-----------: |
 | 27 Sep 2020 | 董汉德 | [Learning Stable Graphs from Multiple Environments with Selection Bias](https://dl.acm.org/doi/abs/10.1145/3394486.3403270) (2020KDD) |
-| 04 Oct 2020 | 于佳睿 | TBD |
+| 04 Oct 2020 | Holiday | TBD |
 | 11 Oct 2020 | WWW | Pass |
-| 18 Oct 2020 | 王晨旭 | TBD |
+| 18 Oct 2020 | 于佳睿 | TBD |
 | 25 Oct 2020 | 魏天心 | TBD |
 | 01 Nov 2020 | 曹培 | TBD |
 | 08 Nov 2020 | 陈佳伟 | TBD |
