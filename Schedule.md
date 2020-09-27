@@ -17,18 +17,17 @@ Here is the schedule of presenting in the reading group.
 | 25 Oct 2020 | 魏天心 | TBD |
 | 01 Nov 2020 | 曹培 | TBD |
 | 08 Nov 2020 | 陈佳伟 | TBD |
-| 15 Nov 2020 | 高崇铭 | TBD |
-| 22 Nov 2020 | 胡鹏飞 | TBD |
-| 29 Nov 2020 | 张洋 | TBD |
-| 06 Dec 2020 | “tyy” | TBD |
-| 13 Dec 2020 | “江山” | TBD |
-| 20 Dec 2020 | “申博林” | TBD |
-| 27 Dec 2020 | 吴颖馨 | TBD |
-| 03 Jan 2021 | 邓讯 | TBD |
-| 10 Jan 2021 | “肖昌义” | TBD |
+| 15 Nov 2020 | 胡鹏飞 | TBD |
+| 22 Nov 2020 | 张洋 | TBD |
+| 29 Nov 2020 | “tyy” | TBD |
+| 06 Dec 2020 | “江山” | TBD |
+| 13 Dec 2020 | “申博林” | TBD |
+| 20 Dec 2020 | 吴颖馨 | TBD |
+| 27 Dec 2020 | 邓讯 | TBD |
+| 03 Jan 2021 | “肖昌义” | TBD |
+| 10 Jan 2021 |“我要下雪了”| TBD |
 | :-----------: | :-----------: | :-----------: |
 | Candidates | Candidates | Candidates |
-| DD MMM 2021 | “我要下雪了” | TBD |
 | DD MMM 2021 | 张及之 | TBD |
 | DD MMM 2021 | “冰菓” | TBD |
 | DD MMM 2021 | “世昌” | TBD |
