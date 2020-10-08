@@ -21,14 +21,13 @@ Here is the schedule of presenting in the reading group.
 | 22 Nov 2020 | 张洋 | TBD |
 | 29 Nov 2020 | “tyy” | TBD |
 | 06 Dec 2020 | “江山” | TBD |
-| 13 Dec 2020 | “申博林” | TBD |
+| 13 Dec 2020 | 张及之 | TBD |
 | 20 Dec 2020 | 吴颖馨 | TBD |
 | 27 Dec 2020 | 邓讯 | TBD |
 | 03 Jan 2021 | “肖昌义” | TBD |
 | 10 Jan 2021 |“我要下雪了”| TBD |
 | :-----------: | :-----------: | :-----------: |
 | Candidates | Candidates | Candidates |
-| DD MMM 2021 | 张及之 | TBD |
 | DD MMM 2021 | “冰菓” | TBD |
 | DD MMM 2021 | “世昌” | TBD |
 | DD MMM 2021 | “a928852036” | TBD |
