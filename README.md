@@ -28,6 +28,7 @@ This is a list of papers about causality.
 - [Feature Selection as Causal Inference: Experiments with Text Classification](https://www.aclweb.org/anthology/K17-1018/) (2017CoNLL)
 
 ## Causal Recommendation
+- ["Click" Is Not Equal to "Like": Counterfactual Recommendation for Mitigating Clickbait Issue](https://arxiv.org/pdf/2009.09945.pdf) (2020)
 - [Learning Stable Graphs from Multiple Environments with Selection Bias](https://dl.acm.org/doi/abs/10.1145/3394486.3403270) (2020KDD)
 - [Recommendations as Treatments: Debiasing Learning and Evaluation](https://arxiv.org/abs/1602.05352) (2016ICML)
 - [Estimating the Causal Impact of Recommendation Systems from Observational Data](https://arxiv.org/abs/1510.04342) (2015ACMEC)
