@@ -5,12 +5,15 @@ This is a list of papers about causality.
 - [Survey paper](#survey-paper)
 - [Foundamental Causality](#foundamental-causality)
 - [Causality in Machine Learning](#causality-in-machine-learning)
-- [Causality in Recommendation](#causality-in-recommendation)
-- [Causality in Computer Vision](#causality-in-computer-vision)
+- [Causal Recommendation](#causal-recommendation)
+- [Causal Computer Vision](#causal-computer-vision)
+- [Causal Interpretability](#causal-interpretability)
 
 
 
 ## Survey Paper
+- [Causal Interpretability for Machine Learning -- Problems, Methods and Evaluation](https://arxiv.org/abs/2003.03934) (2020KDD)
+- [A Survey of Learning Causality with Data: Problems and Methods](A Survey of Learning Causality with Data: Problems and Methods) (2020)
 
 ## Foundamental Causality
 - [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning](https://arxiv.org/abs/1706.03461) (2019PNAS)
@@ -24,13 +27,13 @@ This is a list of papers about causality.
 - [Double/Debiased/Neyman Machine Learning of Treatment Effects](https://arxiv.org/abs/1701.08687) (2017American Economic Review)
 - [Feature Selection as Causal Inference: Experiments with Text Classification](https://www.aclweb.org/anthology/K17-1018/) (2017CoNLL)
 
-## Causality in Recommendation
+## Causal Recommendation
 - [Learning Stable Graphs from Multiple Environments with Selection Bias](https://dl.acm.org/doi/abs/10.1145/3394486.3403270) (2020KDD)
 - [Recommendations as Treatments: Debiasing Learning and Evaluation](https://arxiv.org/abs/1602.05352) (2016ICML)
 - [Estimating the Causal Impact of Recommendation Systems from Observational Data](https://arxiv.org/abs/1510.04342) (2015ACMEC)
 - [Evaluating Online Ad Campaigns in a Pipeline: Causal Models At Scale](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36552.pdf) (2010KDD)
 
-## Causality in Computer Vision
+## Causal Computer Vision
 - [Deconfounded Image Captioning: A Causal Retrospect](https://arxiv.org/abs/2003.03923) 
 - [Counterfactual VQA: A Cause-Effect Look at Language Bias](https://arxiv.org/abs/2006.04315) 
 - [Visual Commonsense R-CNN](https://arxiv.org/abs/2002.12204) (2020CVPR)
@@ -40,3 +43,4 @@ This is a list of papers about causality.
 - [Unbiased Scene Graph Generation From Biased Training](https://openaccess.thecvf.com/content_CVPR_2020/html/Tang_Unbiased_Scene_Graph_Generation_From_Biased_Training_CVPR_2020_paper.html) (2020CVPR)
 - [Two Causal Principles for Improving Visual Dialog](https://openaccess.thecvf.com/content_CVPR_2020/html/Qi_Two_Causal_Principles_for_Improving_Visual_Dialog_CVPR_2020_paper.html) (2020CVPR)
 
+## Causal Interpretability
