@@ -13,7 +13,7 @@ This is a list of papers about causality.
 
 ## Survey Paper
 - [Causal Interpretability for Machine Learning -- Problems, Methods and Evaluation](https://arxiv.org/abs/2003.03934) (2020KDD)
-- [A Survey of Learning Causality with Data: Problems and Methods](A Survey of Learning Causality with Data: Problems and Methods) (2020)
+- [A Survey of Learning Causality with Data: Problems and Methods](https://arxiv.org/abs/1809.09337) (2020)
 
 ## Foundamental Causality
 - [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning](https://arxiv.org/abs/1706.03461) (2019PNAS)
