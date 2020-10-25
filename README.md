@@ -45,3 +45,19 @@ This is a list of papers about causality.
 - [Two Causal Principles for Improving Visual Dialog](https://openaccess.thecvf.com/content_CVPR_2020/html/Qi_Two_Causal_Principles_for_Improving_Visual_Dialog_CVPR_2020_paper.html) (2020CVPR)
 
 ## Causal Interpretability
+### Causal Representation Learning
+- [A Causal Framework for Explaining the Predictions of Black-box Sequence-to-sequence Models](https://www.aclweb.org/anthology/D17-1042/) 
+- [Neural Network Attributions: A Causal Perspective](https://arxiv.org/abs/1902.02302) 
+
+### Causal Intervention
+- [GAN Disssertion: Visualizing and Understnding Generative Adversarial Networks](https://arxiv.org/abs/1811.10597) 
+- [Causal Learning and Explanation of Deep Neural Networks via Autoencoded Activations](https://arxiv.org/abs/1802.00541) 
+- [Explaining Deep Learning Models using Causal Inference](https://arxiv.org/abs/1811.04376) 
+
+
+### Counterfactual Interpretability
+- [Counterfactual Visual Explanations](https://arxiv.org/pdf/1904.07451.pdf) 
+- [Interpretable Counterfactual Explanations Guided by Prototypes](https://arxiv.org/abs/1907.02584) 
+- [Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/abs/1905.07697) 
+
+
