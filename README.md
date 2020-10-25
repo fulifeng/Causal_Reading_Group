@@ -48,11 +48,11 @@ This is a list of papers about causality.
 ### Causal Representation Learning
 - [A Causal Framework for Explaining the Predictions of Black-box Sequence-to-sequence Models](https://www.aclweb.org/anthology/D17-1042/) 
 - [Neural Network Attributions: A Causal Perspective](https://arxiv.org/abs/1902.02302) 
+- [Explaining Deep Learning Models using Causal Inference](https://arxiv.org/abs/1811.04376) 
 
 ### Causal Intervention
 - [GAN Disssertion: Visualizing and Understnding Generative Adversarial Networks](https://arxiv.org/abs/1811.10597) 
 - [Causal Learning and Explanation of Deep Neural Networks via Autoencoded Activations](https://arxiv.org/abs/1802.00541) 
-- [Explaining Deep Learning Models using Causal Inference](https://arxiv.org/abs/1811.04376) 
 
 
 ### Counterfactual Interpretability
