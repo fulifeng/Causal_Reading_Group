@@ -46,18 +46,18 @@ This is a list of papers about causality.
 
 ## Causal Interpretability
 ### Causal Representation Learning
-- [A Causal Framework for Explaining the Predictions of Black-box Sequence-to-sequence Models](https://www.aclweb.org/anthology/D17-1042/) 
-- [Neural Network Attributions: A Causal Perspective](https://arxiv.org/abs/1902.02302) 
-- [Explaining Deep Learning Models using Causal Inference](https://arxiv.org/abs/1811.04376) 
+- [Neural Network Attributions: A Causal Perspective](https://arxiv.org/abs/1902.02302) (2019ICML)
+- [Explaining Deep Learning Models Using Causal Inference](https://arxiv.org/abs/1811.04376)(2018)
+- [A Causal Framework for Explaining the Predictions of Black-box Sequence-to-sequence Models](https://www.aclweb.org/anthology/D17-1042/)(2017EMNLP)
 
 ### Causal Intervention
-- [GAN Disssertion: Visualizing and Understnding Generative Adversarial Networks](https://arxiv.org/abs/1811.10597) 
-- [Causal Learning and Explanation of Deep Neural Networks via Autoencoded Activations](https://arxiv.org/abs/1802.00541) 
+- [GAN Disssertion: Visualizing and Understnding Generative Adversarial Networks](https://arxiv.org/abs/1811.10597) (2018ICLR)
+- [Causal Learning and Explanation of Deep Neural Networks via Autoencoded Activations](https://arxiv.org/abs/1802.00541) (2018)
 
 
 ### Counterfactual Interpretability
-- [Counterfactual Visual Explanations](https://arxiv.org/pdf/1904.07451.pdf) 
-- [Interpretable Counterfactual Explanations Guided by Prototypes](https://arxiv.org/abs/1907.02584) 
-- [Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/abs/1905.07697) 
+- [Counterfactual Visual Explanations](https://arxiv.org/pdf/1904.07451.pdf) (2019ICML)
+- [Interpretable Counterfactual Explanations Guided by Prototypes](https://arxiv.org/abs/1907.02584) (2019)
+- [Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/abs/1905.07697) (2019FAT)
 
 
