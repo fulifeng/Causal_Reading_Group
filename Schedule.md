@@ -35,7 +35,7 @@ Here is the schedule of presenting in the reading group.
 | DD MMM 2021 | 陈佳佳 | TBD |
 | DD MMM 2021 | “Robin_郝” | TBD |
 | DD MMM 2021 | “杜文昕” | TBD |
-| DD MMM 2021 | “pan 问问” | TBD |
+
 
 ## 2nd Round (20 Feb 2020 - XX XXX 2021)
 | Date | Presenter | Paper |
