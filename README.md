@@ -17,7 +17,7 @@ This is a list of papers about causality.
 - [A Survey of Learning Causality with Data: Problems and Methods](https://arxiv.org/abs/1809.09337) (2020)
 
 ## Dataset
-- [ACIC 2018 Data Challenge](https://www.cmu.edu/acic2018/data-challenge/index.html) (ACIC 2018)
+- [ACIC 2018 Data Challenge](https://www.cmu.edu/acic2018/data-challenge/index.html) (2018ACIC)
 
 ## Foundamental Causality
 - [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning](https://arxiv.org/abs/1706.03461) (2019PNAS)
