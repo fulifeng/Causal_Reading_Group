@@ -32,6 +32,7 @@ This is a list of papers about causality.
 - [Feature Selection as Causal Inference: Experiments with Text Classification](https://www.aclweb.org/anthology/K17-1018/) (2017CoNLL)
 
 ## Causal Recommendation
+- [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](https://arxiv.org/abs/2010.15363) (2020)
 - ["Click" Is Not Equal to "Like": Counterfactual Recommendation for Mitigating Clickbait Issue](https://arxiv.org/pdf/2009.09945.pdf) (2020)
 - [Learning Stable Graphs from Multiple Environments with Selection Bias](https://dl.acm.org/doi/abs/10.1145/3394486.3403270) (2020KDD)
 - [Recommendations as Treatments: Debiasing Learning and Evaluation](https://arxiv.org/abs/1602.05352) (2016ICML)
@@ -47,6 +48,11 @@ This is a list of papers about causality.
 - [Counterfactual Samples Synthesizing for Robust Visual Question Answering](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Counterfactual_Samples_Synthesizing_for_Robust_Visual_Question_Answering_CVPR_2020_paper.html) (2020CVPR)
 - [Unbiased Scene Graph Generation From Biased Training](https://openaccess.thecvf.com/content_CVPR_2020/html/Tang_Unbiased_Scene_Graph_Generation_From_Biased_Training_CVPR_2020_paper.html) (2020CVPR)
 - [Two Causal Principles for Improving Visual Dialog](https://openaccess.thecvf.com/content_CVPR_2020/html/Qi_Two_Causal_Principles_for_Improving_Visual_Dialog_CVPR_2020_paper.html) (2020CVPR)
+- [Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling](https://arxiv.org/abs/1911.07308) (2020ECCV)
+
+## Causality in NLP
+- [Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition](https://github.com/xijiz/cfgen/blob/master/docs/cfgen.pdf) (2020EMNLP)
+- [Counterfactual Off-Policy Training for Neural Dialogue Generation](https://arxiv.org/abs/2004.14507) (2020EMNLP)
 
 ## Causal Interpretability
 ### Causal Representation Learning
