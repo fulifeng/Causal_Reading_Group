@@ -58,6 +58,9 @@ This is a list of papers about causality.
 - [GAN Disssertion: Visualizing and Understnding Generative Adversarial Networks](https://arxiv.org/abs/1811.10597) (2018ICLR)
 - [Causal Learning and Explanation of Deep Neural Networks via Autoencoded Activations](https://arxiv.org/abs/1802.00541) (2018)
 
+- [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2009.12547) (NeurIPS 2020)
+- [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://arxiv.org/abs/2009.12991) (NeurIPS 2020)
+- [Interventional Few-Shot Learning](https://arxiv.org/abs/2009.13000) (NeurIPS 2020)
 
 ### Counterfactual Interpretability
 - [Counterfactual Visual Explanations](https://arxiv.org/pdf/1904.07451.pdf) (2019ICML)
