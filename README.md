@@ -28,6 +28,7 @@ This is a list of papers about causality.
 - [Towards a learning theory of cause-effect inference](http://proceedings.mlr.press/v37/lopez-paz15.html) (2015ICML)
 
 ## Causality in Machine Learning
+- [An investigation of why overparameterization exacerbates spurious correlations](https://arxiv.org/pdf/2005.04345.pdf) (2020)
 - [Improving the accuracy of medical diagnosis with causal machine learning](https://www.nature.com/articles/s41467-020-17419-7) (2020Nature Communication)
 - [Double/Debiased/Neyman Machine Learning of Treatment Effects](https://arxiv.org/abs/1701.08687) (2017American Economic Review)
 
