@@ -53,6 +53,7 @@ This is a list of papers about causality.
 ## Causality in NLP
 - [Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition](https://github.com/xijiz/cfgen/blob/master/docs/cfgen.pdf) (2020EMNLP)
 - [Counterfactual Off-Policy Training for Neural Dialogue Generation](https://arxiv.org/abs/2004.14507) (2020EMNLP)
+- [Identifying Spurious Correlations for Robust Text Classification](https://arxiv.org/pdf/2010.02458.pdf) (2020EMNLP)
 
 ## Causal Interpretability
 ### Causal Representation Learning
