@@ -25,11 +25,11 @@ This is a list of papers about causality.
 - [Orthogonal Random Forest for Causal Inference](https://arxiv.org/abs/1806.03467) (2019ICML)
 - [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://arxiv.org/abs/1510.04342) (2018JASA)
 - [Estimating individual treatment effect: generalization bounds and algorithms](https://arxiv.org/abs/1606.03976) (2017JMLR)
+- [Towards a learning theory of cause-effect inference](http://proceedings.mlr.press/v37/lopez-paz15.html) (2015ICML)
 
 ## Causality in Machine Learning
 - [Improving the accuracy of medical diagnosis with causal machine learning](https://www.nature.com/articles/s41467-020-17419-7) (2020Nature Communication)
 - [Double/Debiased/Neyman Machine Learning of Treatment Effects](https://arxiv.org/abs/1701.08687) (2017American Economic Review)
-- [Feature Selection as Causal Inference: Experiments with Text Classification](https://www.aclweb.org/anthology/K17-1018/) (2017CoNLL)
 
 ## Causal Recommendation
 - [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](https://arxiv.org/abs/2010.15363) (2020)
@@ -57,6 +57,7 @@ This is a list of papers about causality.
 - [Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition](https://github.com/xijiz/cfgen/blob/master/docs/cfgen.pdf) (2020EMNLP)
 - [Counterfactual Off-Policy Training for Neural Dialogue Generation](https://arxiv.org/abs/2004.14507) (2020EMNLP)
 - [Identifying Spurious Correlations for Robust Text Classification](https://arxiv.org/pdf/2010.02458.pdf) (2020EMNLP)
+- [Feature Selection as Causal Inference: Experiments with Text Classification](https://www.aclweb.org/anthology/K17-1018/) (2017CoNLL)
 
 ## Causal Interpretability
 ### Causal Representation Learning
