@@ -38,7 +38,10 @@ This is a list of papers about causality.
 - [Recommendations as Treatments: Debiasing Learning and Evaluation](https://arxiv.org/abs/1602.05352) (2016ICML)
 - [Estimating the Causal Impact of Recommendation Systems from Observational Data](https://arxiv.org/abs/1510.04342) (2015ACMEC)
 - [Evaluating Online Ad Campaigns in a Pipeline: Causal Models At Scale](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36552.pdf) (2010KDD)
-
+- [Causal Inference for Recommender Systems](https://dl.acm.org/doi/10.1145/3383313.3412225) (2020 RecSys)
+- [Debiasing Item-to-Item Recommendations With Small Annotated Datasets](https://dl.acm.org/doi/10.1145/3383313.3412265) (2020 RecSys)
+- [Deconfounding User Satisfaction Estimation from Response Rate Bias](https://dl.acm.org/doi/10.1145/3383313.3412208) (2020 RecSys)
+- [Unbiased Learning for the Causal Effect of Recommendation](https://dl.acm.org/doi/10.1145/3383313.3412261) (2020 RecSys)
 ## Causal Computer Vision
 - [Deconfounded Image Captioning: A Causal Retrospect](https://arxiv.org/abs/2003.03923) 
 - [Counterfactual VQA: A Cause-Effect Look at Language Bias](https://arxiv.org/abs/2006.04315) 
@@ -58,8 +61,8 @@ This is a list of papers about causality.
 ## Causal Interpretability
 ### Causal Representation Learning
 - [Neural Network Attributions: A Causal Perspective](https://arxiv.org/abs/1902.02302) (2019ICML)
-- [Explaining Deep Learning Models Using Causal Inference](https://arxiv.org/abs/1811.04376)(2018)
-- [A Causal Framework for Explaining the Predictions of Black-box Sequence-to-sequence Models](https://www.aclweb.org/anthology/D17-1042/)(2017EMNLP)
+- [Explaining Deep Learning Models Using Causal Inference](https://arxiv.org/abs/1811.04376) (2018)
+- [A Causal Framework for Explaining the Predictions of Black-box Sequence-to-sequence Models](https://www.aclweb.org/anthology/D17-1042/) (2017EMNLP)
 
 ### Causal Intervention
 - [GAN Disssertion: Visualizing and Understnding Generative Adversarial Networks](https://arxiv.org/abs/1811.10597) (2018ICLR)
