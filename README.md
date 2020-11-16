@@ -15,6 +15,7 @@ This is a list of papers about causality.
 ## Survey Paper
 - [Causal Interpretability for Machine Learning -- Problems, Methods and Evaluation](https://arxiv.org/abs/2003.03934) (2020KDD)
 - [A Survey of Learning Causality with Data: Problems and Methods](https://arxiv.org/abs/1809.09337) (2020)
+- [A Survey on Causal Inference](https://arxiv.org/abs/2002.02770) (2020)
 
 ## Dataset
 - [ACIC 2018 Data Challenge](https://www.cmu.edu/acic2018/data-challenge/index.html) (2018ACIC)
@@ -22,6 +23,7 @@ This is a list of papers about causality.
 ## Foundamental Causality
 - [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning](https://arxiv.org/abs/1706.03461) (2019PNAS)
 - [Unit Selection Based on Counterfactual Logic](https://ftp.cs.ucla.edu/pub/stat_ser/r488.pdf) (2019IJCAI)
+- [Counterfactual regression with importance sampling weights](https://www.ijcai.org/Proceedings/2019/0815.pdf) (2019IJCAI)
 - [Orthogonal Random Forest for Causal Inference](https://arxiv.org/abs/1806.03467) (2019ICML)
 - [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://arxiv.org/abs/1510.04342) (2018JASA)
 - [Estimating individual treatment effect: generalization bounds and algorithms](https://arxiv.org/abs/1606.03976) (2017JMLR)
