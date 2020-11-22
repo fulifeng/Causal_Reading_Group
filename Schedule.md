@@ -18,8 +18,7 @@ Here is the schedule of presenting in the reading group.
 | 01 Nov 2020 | 魏天心 | TBD |
 | 08 Nov 2020 | 张洋 | Visual Commonsense R-CNN |
 | 15 Nov 2020 | 陈佳伟| TBD |
-| 22 Nov 2020 | 胡鹏飞  | TBD |
-| 29 Nov 2020 | 曹培 | TBD |
+| 22 Nov 2020 | 曹培 | Counterfactual Samples Synthesizing for Robust Visual Question Answering (CVPR2020)|
 | 06 Dec 2020 | “tyy” | TBD |
 | 13 Dec 2020 | “江山” | TBD |
 | 20 Dec 2020 | 张及之 | TBD |
