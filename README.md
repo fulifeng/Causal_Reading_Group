@@ -33,6 +33,7 @@ This is a list of papers about causality.
 - [An investigation of why overparameterization exacerbates spurious correlations](https://arxiv.org/pdf/2005.04345.pdf) (2020)
 - [Matching in Selective and Balanced Representation Space for Treatment Effects Estimation](https://dl.acm.org/doi/abs/10.1145/3340531.3412037) (2020CIKM)
 - [Improving the accuracy of medical diagnosis with causal machine learning](https://www.nature.com/articles/s41467-020-17419-7) (2020Nature Communication)
+- [Causal Meta-Mediation Analysis: Inferring Dose-Response Function From Summary Statistics of Many Randomized Experiments](https://dl.acm.org/doi/abs/10.1145/3394486.3403313) (2020KDD)
 - [Double/Debiased/Neyman Machine Learning of Treatment Effects](https://arxiv.org/abs/1701.08687) (2017American Economic Review)
 
 ## Causal Recommendation
