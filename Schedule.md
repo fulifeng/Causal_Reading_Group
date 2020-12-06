@@ -20,7 +20,7 @@ Here is the schedule of presenting in the reading group.
 | 15 Nov 2020 | 陈佳伟| TBD |
 | 22 Nov 2020 | 曹培 | Counterfactual Samples Synthesizing for Robust Visual Question Answering (CVPR2020)|
 | 29 Nov 2020 | 谭懿 | Learning to Contrast the Counterfactual Samples for Robust Visual Question Answersing(2020EMNLP),Unbiased Scene Graph Generation from Biased Training(2020CVPR) |
-| 13 Dec 2020 | “江山” | TBD |
+| 13 Dec 2020 | “江山” | Causal inference and counterfactual prediction in machine learning for actionable healthcare（2020 Nature Machine Intelligence) |
 | 20 Dec 2020 | 张及之 | TBD |
 | 27 Dec 2020 | 邓讯 | TBD |
 | 03 Jan 2021 | “肖昌义” | TBD |
