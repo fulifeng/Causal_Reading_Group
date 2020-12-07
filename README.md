@@ -36,6 +36,11 @@ This is a list of papers about causality.
 - [Causal Meta-Mediation Analysis: Inferring Dose-Response Function From Summary Statistics of Many Randomized Experiments](https://dl.acm.org/doi/abs/10.1145/3394486.3403313) (2020KDD)
 - [Adapting Text Embeddings for Causal Inference](http://proceedings.mlr.press/v124/veitch20a.html) (2020UAI)
 - [Double/Debiased/Neyman Machine Learning of Treatment Effects](https://arxiv.org/abs/1701.08687) (2017American Economic Review)
+- [Bayesian Regression Tree Models for Causal Inference: Regularization, Confounding, and Heterogeneous Effects](https://arxiv.org/pdf/1706.09523.pdf)(2020)
+- [Deep IV: A Flexible Approach for Counterfactual Prediction](http://proceedings.mlr.press/v70/hartford17a/hartford17a.pdf)(2017)
+- [Estimating individual treatment effect: generalization bounds and algorithms](https://arxiv.org/pdf/1606.03976.pdf)(2017)
+- [Causal Decision Trees](https://arxiv.org/pdf/1508.03812.pdf)(2020)
+- [Estimating Individual Treatment Effect in Observational Data Using Random Forest Methods](https://arxiv.org/pdf/1701.05306.pdf)(2018)
 
 ## Causal Recommendation
 - [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](https://arxiv.org/abs/2010.15363) (2020)
