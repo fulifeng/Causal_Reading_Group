@@ -11,19 +11,20 @@ Here is the schedule of presenting in the reading group.
 | Date | Presenter | Paper |
 | :-----------: | :-----------: | :-----------: |
 | 27 Sep 2020 | 董汉德 | [Learning Stable Graphs from Multiple Environments with Selection Bias](https://dl.acm.org/doi/abs/10.1145/3394486.3403270) (2020KDD) |
-| 04 Oct 2020 | Holiday | TBD |
+| 04 Oct 2020 | Holiday | Pass |
 | 11 Oct 2020 | WWW | Pass |
-| 18 Oct 2020 | WWW | TBD |
+| 18 Oct 2020 | WWW | Pass |
 | 25 Oct 2020 | 吴颖馨 | Causal Interpretability for Machine Learning-Problems, Methods and Evaluation|
-| 01 Nov 2020 | 魏天心 | TBD |
+| 01 Nov 2020 | Group Activity | Pass |
 | 08 Nov 2020 | 张洋 | Visual Commonsense R-CNN |
 | 15 Nov 2020 | 陈佳伟| TBD |
 | 22 Nov 2020 | 曹培 | Counterfactual Samples Synthesizing for Robust Visual Question Answering (CVPR2020)|
 | 29 Nov 2020 | 谭懿 | Learning to Contrast the Counterfactual Samples for Robust Visual Question Answersing(2020EMNLP),Unbiased Scene Graph Generation from Biased Training(2020CVPR) |
-| 13 Dec 2020 | “江山” | Causal inference and counterfactual prediction in machine learning for actionable healthcare（2020 Nature Machine Intelligence) |
-| 20 Dec 2020 | 张及之 | TBD |
-| 27 Dec 2020 | 邓讯 | TBD |
-| 03 Jan 2021 | “肖昌义” | TBD |
+| 06 Dec 2020 | 石文焘 | Causal inference and counterfactual prediction in machine learning for actionable healthcare（2020 Nature Machine Intelligence) |
+| 13 Dec 2020 | 张及之 | TBD |
+| 20 Dec 2020 | 邓讯 | TBD |
+| 27 Dec 2020 | 肖昌义 | TBD |
+| 03 Jan 2021 | “” | TBD |
 | 10 Jan 2021 |“我要下雪了”| TBD |
 | :-----------: | :-----------: | :-----------: |
 | Candidates | Candidates | Candidates |
