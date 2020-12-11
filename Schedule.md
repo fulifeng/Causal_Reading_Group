@@ -24,17 +24,9 @@ Here is the schedule of presenting in the reading group.
 | 13 Dec 2020 | 张及之 | TBD |
 | 20 Dec 2020 | 邓讯 | TBD |
 | 27 Dec 2020 | 肖昌义 | TBD |
-| 03 Jan 2021 | “” | TBD |
-| 10 Jan 2021 |“我要下雪了”| TBD |
+| 03 Jan 2021 | 陈佳佳 | TBD |
+| 10 Jan 2021 | 魏天心 | TBD |
 | :-----------: | :-----------: | :-----------: |
-| Candidates | Candidates | Candidates |
-| DD MMM 2021 | “冰菓” | TBD |
-| DD MMM 2021 | “世昌” | TBD |
-| DD MMM 2021 | “a928852036” | TBD |
-| DD MMM 2021 | 王文杰 | TBD |
-| DD MMM 2021 | 陈佳佳 | TBD |
-| DD MMM 2021 | “Robin_郝” | TBD |
-| DD MMM 2021 | “杜文昕” | TBD |
 
 
 ## 2nd Round (20 Feb 2020 - XX XXX 2021)
