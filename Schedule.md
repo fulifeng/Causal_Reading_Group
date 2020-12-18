@@ -21,7 +21,7 @@ Here is the schedule of presenting in the reading group.
 | 22 Nov 2020 | 曹培 | Counterfactual Samples Synthesizing for Robust Visual Question Answering (CVPR2020)|
 | 29 Nov 2020 | 谭懿 | Learning to Contrast the Counterfactual Samples for Robust Visual Question Answersing(2020EMNLP),Unbiased Scene Graph Generation from Biased Training(2020CVPR) |
 | 06 Dec 2020 | 石文焘 | Causal inference and counterfactual prediction in machine learning for actionable healthcare（2020 Nature Machine Intelligence) |
-| 13 Dec 2020 | 张及之 | TBD |
+| 13 Dec 2020 | 张及之 | [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://arxiv.org/abs/2009.12991v2) |
 | 20 Dec 2020 | 邓讯 | TBD |
 | 27 Dec 2020 | 肖昌义 | TBD |
 | 03 Jan 2021 | 陈佳佳 | TBD |
