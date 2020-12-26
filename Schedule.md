@@ -23,7 +23,6 @@ Here is the schedule of presenting in the reading group.
 | 06 Dec 2020 | 石文焘 | Causal inference and counterfactual prediction in machine learning for actionable healthcare（2020 Nature Machine Intelligence) |
 | 13 Dec 2020 | 张及之 | [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://arxiv.org/abs/2009.12991v2) |
 | 20 Dec 2020 | 邓讯 | TBD |
-| 27 Dec 2020 | 肖昌义 | TBD |
 | 03 Jan 2021 | 陈佳佳 | TBD |
 | 10 Jan 2021 | 魏天心 | TBD |
 | :-----------: | :-----------: | :-----------: |
