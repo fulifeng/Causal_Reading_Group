@@ -3,9 +3,13 @@ Here is the schedule of presenting in the reading group.
 
 ## Table of Contents
 - [Schedule](#schedule)
-  - [Table of Contents](#table-of-contents)
   - [1st Round (27 Sep 2020 - 10 Jan 2021)](#1st-round-27-sep-2020---10-jan-2021)
   - [2nd Round (20 Feb 2020 - XX XXX 2021)](#2nd-round-20-feb-2020---xx-xxx-2021)
+
+## 2nd Round (20 Feb 2020 - XX XXX 2021)
+| Date | Presenter | Paper |
+| :-----------: | :-----------: | :-----------: |
+| Candidates | Candidates | Candidates |
 
 ## 1st Round (27 Sep 2020 - 10 Jan 2021)
 | Date | Presenter | Paper |
@@ -26,9 +30,3 @@ Here is the schedule of presenting in the reading group.
 | 03 Jan 2021 | 陈佳佳 | TBD |
 | 10 Jan 2021 | 魏天心 | TBD |
 | :-----------: | :-----------: | :-----------: |
-
-
-## 2nd Round (20 Feb 2020 - XX XXX 2021)
-| Date | Presenter | Paper |
-| :-----------: | :-----------: | :-----------: |
-| Candidates | Candidates | Candidates |
