@@ -3,13 +3,38 @@ Here is the schedule of presenting in the reading group.
 
 ## Table of Contents
 - [Schedule](#schedule)
+	- [2nd Round (20 Feb 2020 - XX XXX 2021)](#2nd-round-12-Mar-2021---***)
   - [1st Round (27 Sep 2020 - 10 Jan 2021)](#1st-round-27-sep-2020---10-jan-2021)
-  - [2nd Round (20 Feb 2020 - XX XXX 2021)](#2nd-round-20-feb-2020---xx-xxx-2021)
 
-## 2nd Round (20 Feb 2020 - XX XXX 2021)
+
+## 2nd Round (12 Mar 2021 - ***)
 | Date | Presenter | Paper |
 | :-----------: | :-----------: | :-----------: |
-| Candidates | Candidates | Candidates |
+| 3-23 | 张洋 |  |
+| 3-30 | 王文杰 |  |
+| 4-06 | 张及之 |  |
+| 4-13 | 王晨旭 |  |
+| 4-20 | 吴颖馨 | |
+| 4-27 | 邓讯 |  |
+| 5-04 | Holiday | Pass |
+| 5-11 | 朱心远 |  |
+| 5-18 | NIPS deadline | Pass |
+| 5-25 | NIPS deadline | Pass |
+| 6-01 | 石文焘 |  |
+| 6-08 | 董汉德 |  |
+| 6-15 | 魏天心 |  |
+| 6-22 | 王禹 |  |
+| 6-29 | 丁斯昊 |  |
+| 7-06 | 高崇铭 |  |
+| 7-13 | 陈佳佳 |  |
+| 7-20 | 傅天任 |  |
+| 7-27 | 曹培 |  |
+| 8-03 | 谭懿 |  |
+| 8-10 | 叶坚白 |  |
+| 8-17 | 江顺宇 |  |
+| :-----------: | :-----------: | :-----------: |
+
+
 
 ## 1st Round (27 Sep 2020 - 10 Jan 2021)
 | Date | Presenter | Paper |
@@ -26,7 +51,4 @@ Here is the schedule of presenting in the reading group.
 | 29 Nov 2020 | 谭懿 | Learning to Contrast the Counterfactual Samples for Robust Visual Question Answersing(2020EMNLP),Unbiased Scene Graph Generation from Biased Training(2020CVPR) |
 | 06 Dec 2020 | 石文焘 | Causal inference and counterfactual prediction in machine learning for actionable healthcare（2020 Nature Machine Intelligence) |
 | 13 Dec 2020 | 张及之 | [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://arxiv.org/abs/2009.12991v2) |
-| 20 Dec 2020 | 邓讯 | TBD |
-| 03 Jan 2021 | 陈佳佳 | TBD |
-| 10 Jan 2021 | 魏天心 | TBD |
 | :-----------: | :-----------: | :-----------: |
