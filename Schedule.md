@@ -18,8 +18,8 @@ Here is the schedule of presenting in the reading group.
 | 4-27 | 邓讯 |  |
 | 5-04 | Holiday | Pass |
 | 5-11 | 朱心远 |  |
-| 5-18 | NIPS deadline | Pass |
-| 5-25 | NIPS deadline | Pass |
+| 5-18 | NeurIPS deadline | Pass |
+| 5-25 | NeurIPS deadline | Pass |
 | 6-01 | 石文焘 |  |
 | 6-08 | 董汉德 |  |
 | 6-15 | 魏天心 |  |
