@@ -64,8 +64,9 @@ This is a list of papers about causality.
 - [Evaluating Online Ad Campaigns in a Pipeline: Causal Models At Scale](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36552.pdf) (2010KDD)
 
 ## Causal Computer Vision
+- [Causal Attention for Vision-Language Tasks](https://arxiv.org/abs/2103.03493) (2021CVPR)
 - [Deconfounded Image Captioning: A Causal Retrospect](https://arxiv.org/abs/2003.03923) 
-- [Counterfactual VQA: A Cause-Effect Look at Language Bias](https://arxiv.org/abs/2006.04315) 
+- [Counterfactual VQA: A Cause-Effect Look at Language Bias](https://arxiv.org/abs/2006.04315) (2021CVPR)
 - [Visual Commonsense R-CNN](https://arxiv.org/abs/2002.12204) (2020CVPR)
 - [More Grounded Image Captioning by Distilling Image-Text Matching Model](https://arxiv.org/abs/2004.00390) (2020CVPR)
 - [Visual Commonsense Representation Learning via Causal Inference](https://openaccess.thecvf.com/content_CVPRW_2020/html/w26/Wang_Visual_Commonsense_Representation_Learning_via_Causal_Inference_CVPRW_2020_paper.html) (2020CVPR)
