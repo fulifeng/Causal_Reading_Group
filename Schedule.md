@@ -10,7 +10,7 @@ Here is the schedule of presenting in the reading group.
 ## 2nd Round (12 Mar 2021 - ***)
 | Date | Presenter | Paper |
 | :-----------: | :-----------: | :-----------: |
-| 3-23 | 张洋 |  |
+| 3-23 | 张洋 | Counterfactual Zero-Shot and Open-Set Visual Recognition |
 | 3-30 | 王文杰 |  |
 | 4-06 | 王晨旭 |  |
 | 4-13 | 张及之 |  |
