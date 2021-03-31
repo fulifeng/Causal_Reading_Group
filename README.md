@@ -8,6 +8,7 @@ This is a list of papers about causality.
 - [Causality in Machine Learning](#causality-in-machine-learning)
 - [Causal Recommendation](#causal-recommendation)
 - [Causal Computer Vision](#causal-computer-vision)
+- [Causality in NLP](#causality-in-nlp)
 - [Causal Interpretability](#causal-interpretability)
 
 
