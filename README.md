@@ -45,6 +45,7 @@ This is a list of papers about causality.
 - [Estimating Individual Treatment Effect in Observational Data Using Random Forest Methods](https://arxiv.org/pdf/1701.05306.pdf)(2018)
 
 ## Causal Recommendation
+- [PRINCE: Provider-side Interpretability with Counterfactual Explanations in Recommender Systems](https://arxiv.org/abs/1911.08378v4) (2020WSDM)
 - [Counterfactual Prediction for Bundle Treatment](https://proceedings.neurips.cc/paper/2020/file/e430ad64df3de73e6be33bcb7f6d0dac-Paper.pdf) (2020NeurIPS)
 - [Adversarial Counterfactual Learning and Evaluation for Recommender System](https://papers.nips.cc/paper/2020/file/9cd013fe250ebffc853b386569ab18c0-Paper.pdf) (2020NeurIPS)
 - [Information Theoretic Counterfactual Learning from Missing-Not-At-Random Feedback](https://papers.nips.cc/paper/2020/file/13f3cf8c531952d72e5847c4183e6910-Paper.pdf) (2020NeurIPS)
@@ -77,6 +78,7 @@ This is a list of papers about causality.
 - [Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling](https://arxiv.org/abs/1911.07308) (2020ECCV)
 
 ## Causality in NLP
+- [De-Biased Court’s View Generation with Causality](https://www.aclweb.org/anthology/2020.emnlp-main.56.pdf) (2020EMNLP)
 - [Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition](https://github.com/xijiz/cfgen/blob/master/docs/cfgen.pdf) (2020EMNLP)
 - [Counterfactual Off-Policy Training for Neural Dialogue Generation](https://arxiv.org/abs/2004.14507) (2020EMNLP)
 - [Identifying Spurious Correlations for Robust Text Classification](https://arxiv.org/pdf/2010.02458.pdf) (2020EMNLP)
