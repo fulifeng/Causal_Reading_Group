@@ -91,8 +91,8 @@ This is a list of papers about causality.
 - [Causal Discovery with Reinforcement Learning](https://arxiv.org/abs/1906.04477)(ICLR)
 - [Causal Discovery from Incomplete Data: A Deep Learning Approach](https://arxiv.org/pdf/2001.05343.pdf)(AAAI)
 #### Before 2020
-- [A Graph Autoencoder Approach to Causal Structure Learning] (https://arxiv.org/abs/1911.07420) (2019-NeurIPS)
-- [CXPlain: Causal Explanations for Model Interpretation under Uncertainty] (https://papers.nips.cc/paper/2019/file/3ab6be46e1d6b21d59a3c3a0b9d0f6ef-Paper.pdf) (2019-NeurIPS)
+- [A Graph Autoencoder Approach to Causal Structure Learning](https://arxiv.org/abs/1911.07420) (2019-NeurIPS)
+- [CXPlain: Causal Explanations for Model Interpretation under Uncertainty](https://papers.nips.cc/paper/2019/file/3ab6be46e1d6b21d59a3c3a0b9d0f6ef-Paper.pdf) (2019-NeurIPS)
 - [Neural Network Attributions: A Causal Perspective](https://arxiv.org/abs/1902.02302) (2019-ICML)
 - [Building Causal Graphs from Medical Literature and Electronic Medical Records](https://ojs.aaai.org//index.php/AAAI/article/view/3902)(2019-AAAI)
 - [Explaining Deep Learning Models Using Causal Inference](https://arxiv.org/abs/1811.04376) (2018)
