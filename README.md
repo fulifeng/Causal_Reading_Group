@@ -85,18 +85,31 @@ This is a list of papers about causality.
 - [Feature Selection as Causal Inference: Experiments with Text Classification](https://www.aclweb.org/anthology/K17-1018/) (2017CoNLL)
 
 ## Causal Interpretability
-### Causal Representation Learning
-- [Neural Network Attributions: A Causal Perspective](https://arxiv.org/abs/1902.02302) (2019ICML)
+### Causal Discovery
+#### In Year 2020
+- [Causal Inference with Deep Causal Graphs](https://arxiv.org/abs/2006.08380)
+- [Causal Discovery with Reinforcement Learning](https://arxiv.org/abs/1906.04477)(ICLR)
+- [Causal Discovery from Incomplete Data: A Deep Learning Approach](https://arxiv.org/pdf/2001.05343.pdf)(AAAI)
+#### Before 2020
+- [A Graph Autoencoder Approach to Causal Structure Learning] (https://arxiv.org/abs/1911.07420) (2019-NeurIPS)
+- [CXPlain: Causal Explanations for Model Interpretation under Uncertainty] (https://papers.nips.cc/paper/2019/file/3ab6be46e1d6b21d59a3c3a0b9d0f6ef-Paper.pdf) (2019-NeurIPS)
+- [Neural Network Attributions: A Causal Perspective](https://arxiv.org/abs/1902.02302) (2019-ICML)
+- [Building Causal Graphs from Medical Literature and Electronic Medical Records](https://ojs.aaai.org//index.php/AAAI/article/view/3902)(2019-AAAI)
 - [Explaining Deep Learning Models Using Causal Inference](https://arxiv.org/abs/1811.04376) (2018)
-- [A Causal Framework for Explaining the Predictions of Black-box Sequence-to-sequence Models](https://www.aclweb.org/anthology/D17-1042/) (2017EMNLP)
+- [Neural Relational Inference for Interacting Systems](https://arxiv.org/pdf/1802.04687.pdf) (2018-ICML)
+- [Learning Independent Causal Mechanisms](https://arxiv.org/abs/1712.00961) (2018-ICML)
+- [DAGs with NO TEARS: Continuous Optimization for Structure Learning](https://papers.nips.cc/paper/2018/file/e347c51419ffb23ca3fd5050202f9c3d-Paper.pdf) (2018-NeurIPS)
+- [A Causal Framework for Explaining the Predictions of Black-box Sequence-to-sequence Models](https://www.aclweb.org/anthology/D17-1042/) (2017-EMNLP)
 
 ### Causal Intervention
+#### In Year 2020
+- [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2009.12547) (NeurIPS)
+- [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://arxiv.org/abs/2009.12991) (NeurIPS)
+- [Interventional Few-Shot Learning](https://arxiv.org/abs/2009.13000) (NeurIPS)
+#### Before 2020
 - [GAN Disssertion: Visualizing and Understnding Generative Adversarial Networks](https://arxiv.org/abs/1811.10597) (2018ICLR)
 - [Causal Learning and Explanation of Deep Neural Networks via Autoencoded Activations](https://arxiv.org/abs/1802.00541) (2018)
 
-- [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2009.12547) (NeurIPS 2020)
-- [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://arxiv.org/abs/2009.12991) (NeurIPS 2020)
-- [Interventional Few-Shot Learning](https://arxiv.org/abs/2009.13000) (NeurIPS 2020)
 
 ### Counterfactual Interpretability
 - [Counterfactual Visual Explanations](https://arxiv.org/pdf/1904.07451.pdf) (2019ICML)
