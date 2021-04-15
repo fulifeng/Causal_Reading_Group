@@ -78,6 +78,9 @@ This is a list of papers about causality.
 - [Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling](https://arxiv.org/abs/1911.07308) (2020ECCV)
 
 ## Causality in NLP
+- [How to make causal inferences using texts](https://arxiv.org/pdf/1802.02163.pdf) (2018arxiv)
+- [Text and Causal Inference:A Review of Using Text to Remove Confounding from Causal Estimates](https://www.aclweb.org/anthology/2020.acl-main.474.pdf) (ACL2020)
+- [Causal inference of script knowledge](https://www.aclweb.org/anthology/2020.emnlp-main.612.pdf) (2020EMNLP)
 - [De-Biased Court’s View Generation with Causality](https://www.aclweb.org/anthology/2020.emnlp-main.56.pdf) (2020EMNLP)
 - [Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition](https://github.com/xijiz/cfgen/blob/master/docs/cfgen.pdf) (2020EMNLP)
 - [Counterfactual Off-Policy Training for Neural Dialogue Generation](https://arxiv.org/abs/2004.14507) (2020EMNLP)
