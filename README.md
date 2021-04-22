@@ -45,12 +45,12 @@ This is a list of papers about causality.
 - [Estimating Individual Treatment Effect in Observational Data Using Random Forest Methods](https://arxiv.org/pdf/1701.05306.pdf)(2018)
 
 ## Causal Recommendation
+- ["Click" Is Not Equal to "Like": Counterfactual Recommendation for Mitigating Clickbait Issue](https://arxiv.org/pdf/2009.09945.pdf) (2021SIGIR)
 - [PRINCE: Provider-side Interpretability with Counterfactual Explanations in Recommender Systems](https://arxiv.org/abs/1911.08378v4) (2020WSDM)
 - [Counterfactual Prediction for Bundle Treatment](https://proceedings.neurips.cc/paper/2020/file/e430ad64df3de73e6be33bcb7f6d0dac-Paper.pdf) (2020NeurIPS)
 - [Adversarial Counterfactual Learning and Evaluation for Recommender System](https://papers.nips.cc/paper/2020/file/9cd013fe250ebffc853b386569ab18c0-Paper.pdf) (2020NeurIPS)
 - [Information Theoretic Counterfactual Learning from Missing-Not-At-Random Feedback](https://papers.nips.cc/paper/2020/file/13f3cf8c531952d72e5847c4183e6910-Paper.pdf) (2020NeurIPS)
 - [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](https://arxiv.org/abs/2010.15363) (2020)
-- ["Click" Is Not Equal to "Like": Counterfactual Recommendation for Mitigating Clickbait Issue](https://arxiv.org/pdf/2009.09945.pdf) (2020)
 - [Learning Stable Graphs from Multiple Environments with Selection Bias](https://dl.acm.org/doi/abs/10.1145/3394486.3403270) (2020KDD)
 - [Causal Inference for Recommender Systems](https://dl.acm.org/doi/10.1145/3383313.3412225) (2020 RecSys)
 - [Debiasing Item-to-Item Recommendations With Small Annotated Datasets](https://dl.acm.org/doi/10.1145/3383313.3412265) (2020 RecSys)
