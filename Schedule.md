@@ -11,11 +11,11 @@ Here is the schedule of presenting in the reading group.
 | Date | Presenter | Paper |
 | :-----------: | :-----------: | :-----------: |
 | 3-23 | 张洋 | Counterfactual Zero-Shot and Open-Set Visual Recognition |
-| 3-30 | 王文杰 |  |
-| 4-06 | 王晨旭 |  |
-| 4-13 | 张及之 |  |
-| 4-20 | 吴颖馨 | |
-| 4-27 | 邓讯 |  |
+| 3-30 | 王文杰 | Causal Attention for Vision-Language Tasks |
+| 4-06 | 王晨旭 | Identifying Causal-Effect Inference Failure with Uncertainty-Aware Models |
+| 4-13 | 张及之 | Distilling Causal Effect of Data in Class-Incremental Learning  |
+| 4-20 | 吴颖馨 | delta-CLUE: Divere Sets of Explanations for Uncertainty Estimates |
+| 4-27 | 邓讯 | Algorithmic Recourse: from Counterfactual Explanations to Interventions  |
 | 5-04 | Holiday | Pass |
 | 5-11 | 朱心远 |  |
 | 5-18 | NeurIPS deadline | Pass |
