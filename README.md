@@ -31,6 +31,8 @@ This is a list of papers about causality.
 - [Towards a learning theory of cause-effect inference](http://proceedings.mlr.press/v37/lopez-paz15.html) (2015ICML)
 
 ## Causality in Machine Learning
+- [Learning Individually Fair Classifier with Path-Specific Causal-Effect Constraint](http://proceedings.mlr.press/v130/chikahara21a.html)(2021AISTATS)
+- [Path-specific Counterfactual Fairness](https://ojs.aaai.org//index.php/AAAI/article/view/4777) (2019AAAI)
 - [Counterfactual Fairness](https://proceedings.neurips.cc/paper/2017/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf) (2017 NIPS)
 - [A Causal View on Robustness of Neural Networks](https://arxiv.org/abs/2005.01095) (2020NeurIPS)
 - [An investigation of why overparameterization exacerbates spurious correlations](https://arxiv.org/pdf/2005.04345.pdf) (2020)
