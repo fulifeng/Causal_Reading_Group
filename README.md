@@ -96,11 +96,9 @@ This is a list of papers about causality.
 
 ## Causal Interpretability
 ### Causal Discovery
-#### In Year 2020
 - [Causal Inference with Deep Causal Graphs](https://arxiv.org/abs/2006.08380)
-- [Causal Discovery with Reinforcement Learning](https://arxiv.org/abs/1906.04477)(ICLR)
-- [Causal Discovery from Incomplete Data: A Deep Learning Approach](https://arxiv.org/pdf/2001.05343.pdf)(AAAI)
-#### Before 2020
+- [Causal Discovery with Reinforcement Learning](https://arxiv.org/abs/1906.04477)(2020ICLR)
+- [Causal Discovery from Incomplete Data: A Deep Learning Approach](https://arxiv.org/pdf/2001.05343.pdf)(2020AAAI)
 - [A Graph Autoencoder Approach to Causal Structure Learning](https://arxiv.org/abs/1911.07420) (2019-NeurIPS)
 - [CXPlain: Causal Explanations for Model Interpretation under Uncertainty](https://papers.nips.cc/paper/2019/file/3ab6be46e1d6b21d59a3c3a0b9d0f6ef-Paper.pdf) (2019-NeurIPS)
 - [Neural Network Attributions: A Causal Perspective](https://arxiv.org/abs/1902.02302) (2019-ICML)
@@ -112,17 +110,23 @@ This is a list of papers about causality.
 - [A Causal Framework for Explaining the Predictions of Black-box Sequence-to-sequence Models](https://www.aclweb.org/anthology/D17-1042/) (2017-EMNLP)
 
 ### Causal Intervention
-#### In Year 2020
-- [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2009.12547) (NeurIPS)
-- [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://arxiv.org/abs/2009.12991) (NeurIPS)
-- [Interventional Few-Shot Learning](https://arxiv.org/abs/2009.13000) (NeurIPS)
-#### Before 2020
+- [Causal Intervention for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2009.12547) (2020NeurIPS)
+- [Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect](https://arxiv.org/abs/2009.12991) (2020NeurIPS)
+- [Interventional Few-Shot Learning](https://arxiv.org/abs/2009.13000) (2020NeurIPS)
 - [GAN Disssertion: Visualizing and Understnding Generative Adversarial Networks](https://arxiv.org/abs/1811.10597) (2018ICLR)
 - [Causal Learning and Explanation of Deep Neural Networks via Autoencoded Activations](https://arxiv.org/abs/1802.00541) (2018)
 
 
 ### Counterfactual Interpretability
+- [Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://dl.acm.org/doi/abs/10.1145/3442188.3445899) (2021FAT)
+- [CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks](https://arxiv.org/pdf/2102.03322.pdf) (2021)
+- [$\delta$-CLUE: DIVERSESETS OFEXPLANATIONS FORUNCERTAINTYESTIMATES](about:blank) (2021ICLR workshop)
+- [Explaining Deep Graph Networks with Molecular Counterfactuals](https://arxiv.org/abs/2011.05134) (2020NeurIPS)
+- [Learning the Difference that Makes a Difference with Counterfactually-augmented Data](https://arxiv.org/abs/1909.12434) (2020ICLR)
+- [Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition](https://www.aclweb.org/anthology/2020.emnlp-main.590/) (2020EMNLP)
 - [Counterfactual Visual Explanations](https://arxiv.org/pdf/1904.07451.pdf) (2019ICML)
+- [Preserving Causal Constraints in Counterfactual Explanations for Machine Learning Classiﬁers](https://arxiv.org/abs/1912.03277) (2019NeurIPS)
+- [Explaining Image Classifiers by Counterfactual Generation](https://arxiv.org/abs/1807.08024) (2019ICLR)
 - [Interpretable Counterfactual Explanations Guided by Prototypes](https://arxiv.org/abs/1907.02584) (2019)
 - [Explaining Machine Learning Classifiers through Diverse Counterfactual Explanations](https://arxiv.org/abs/1905.07697) (2019FAT)
 
