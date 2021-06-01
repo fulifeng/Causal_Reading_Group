@@ -120,7 +120,7 @@ This is a list of papers about causality.
 ### Counterfactual Interpretability
 - [Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://dl.acm.org/doi/abs/10.1145/3442188.3445899) (2021FAT)
 - [CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks](https://arxiv.org/pdf/2102.03322.pdf) (2021)
-- [$\delta$-CLUE: DIVERSESETS OFEXPLANATIONS FORUNCERTAINTYESTIMATES](about:blank) (2021ICLR workshop)
+- [Delta-CLUE Divere Sets of Explanations for Uncertainty Estimates](https://arxiv.org/abs/2104.06323) (2021ICLR workshop)
 - [Explaining Deep Graph Networks with Molecular Counterfactuals](https://arxiv.org/abs/2011.05134) (2020NeurIPS)
 - [Learning the Difference that Makes a Difference with Counterfactually-augmented Data](https://arxiv.org/abs/1909.12434) (2020ICLR)
 - [Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition](https://www.aclweb.org/anthology/2020.emnlp-main.590/) (2020EMNLP)
