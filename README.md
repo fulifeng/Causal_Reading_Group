@@ -49,9 +49,10 @@ This is a list of papers about causality.
 - [Estimating Individual Treatment Effect in Observational Data Using Random Forest Methods](https://arxiv.org/pdf/1701.05306.pdf)(2018)
 
 ## Causal Recommendation
+- [Deconfounded Recommendation for Alleviating Bias Amplification](https://arxiv.org/abs/2105.10648) (2021 KDD)
 - [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](https://arxiv.org/abs/2010.15363) (2021 KDD)
 - [Causal Intervention for Leveraging Popularity Bias in Recommendation](https://arxiv.org/abs/2105.06067)(2021 SIGIR)
-- ["Click" Is Not Equal to "Like": Counterfactual Recommendation for Mitigating Clickbait Issue](https://arxiv.org/pdf/2009.09945.pdf) (2021SIGIR)
+- [Clicks can be Cheating: Counterfactual Recommendation for Mitigating Clickbait Issue](https://arxiv.org/pdf/2009.09945.pdf) (2021SIGIR)
 - [The Simpson’s Paradox in the Offline Evaluation of Recommendation Systems](https://arxiv.org/pdf/2104.08912.pdf)(2021)
 - [PRINCE: Provider-side Interpretability with Counterfactual Explanations in Recommender Systems](https://arxiv.org/abs/1911.08378v4) (2020WSDM)
 - [Counterfactual Prediction for Bundle Treatment](https://proceedings.neurips.cc/paper/2020/file/e430ad64df3de73e6be33bcb7f6d0dac-Paper.pdf) (2020NeurIPS)
