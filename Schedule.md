@@ -30,7 +30,6 @@ Here is the schedule of presenting in the reading group.
 | 7-20 | 曹培 |  |
 | 7-27 | 谭懿 |  |
 | 8-03 | 叶坚白 |  |
-| 8-10 | 江顺宇 |  |
 | :-----------: | :-----------: | :-----------: |
 
 
