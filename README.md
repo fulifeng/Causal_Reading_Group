@@ -73,6 +73,7 @@ This is a list of papers about causality.
 - [Evaluating Online Ad Campaigns in a Pipeline: Causal Models At Scale](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36552.pdf) (2010KDD)
 
 ## Causal Computer Vision
+- [Deconfounded Video Moment Retrieval with Causal Intervention](https://arxiv.org/pdf/2106.01534.pdf) (2021SIGIR)
 - [Causal Attention for Vision-Language Tasks](https://arxiv.org/abs/2103.03493) (2021CVPR)
 - [Deconfounded Image Captioning: A Causal Retrospect](https://arxiv.org/abs/2003.03923) 
 - [Counterfactual VQA: A Cause-Effect Look at Language Bias](https://arxiv.org/abs/2006.04315) (2021CVPR)
