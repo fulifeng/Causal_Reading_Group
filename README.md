@@ -98,6 +98,8 @@ This is a list of papers about causality.
 
 ## Causal Interpretability
 ### Causal Discovery
+- [CausalVAE: Disentangled Representation Learning via Neural Structural Causal Models](https://arxiv.org/pdf/2004.08697.pdf)(2021CVPR)
+- [Disentangled Generative Causal Representation Learning](https://arxiv.org/pdf/2010.02637.pdf)
 - [Causal Inference with Deep Causal Graphs](https://arxiv.org/abs/2006.08380)
 - [Causal Discovery with Reinforcement Learning](https://arxiv.org/abs/1906.04477)(2020ICLR)
 - [Causal Discovery from Incomplete Data: A Deep Learning Approach](https://arxiv.org/pdf/2001.05343.pdf)(2020AAAI)
