@@ -87,6 +87,7 @@ This is a list of papers about causality.
 - [Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling](https://arxiv.org/abs/1911.07308) (2020ECCV)
 
 ## Causality in NLP
+- [Empowering Language Understanding with Counterfactual Reasoning](https://arxiv.org/pdf/2106.03046.pdf) (2021ACL)
 - [Everything Has a Cause: Leveraging Causal Inference in Legal Text Analysis](https://arxiv.org/abs/2104.09420) (2021NAACL)
 - [How to make causal inferences using texts](https://arxiv.org/pdf/1802.02163.pdf) (2018arxiv)
 - [Text and Causal Inference:A Review of Using Text to Remove Confounding from Causal Estimates](https://www.aclweb.org/anthology/2020.acl-main.474.pdf) (ACL2020)
