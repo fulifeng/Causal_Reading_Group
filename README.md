@@ -72,14 +72,13 @@ This is a list of papers about causality.
 - [Estimating Individual Treatment Effect in Observational Data Using Random Forest Methods](https://arxiv.org/pdf/1701.05306.pdf)(2018)
 
 ## Causal Recommendation
-- [Counterfactual Data-Augmented Sequential Recommendation](https://dl.acm.org/doi/10.1145/3404835.3462855) (2021 SIGIR)
 - [Deconfounded Recommendation for Alleviating Bias Amplification](https://arxiv.org/abs/2105.10648) (2021 KDD)
 - [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](https://arxiv.org/abs/2010.15363) (2021 KDD)
 - [Causal Intervention for Leveraging Popularity Bias in Recommendation](https://arxiv.org/abs/2105.06067)(2021 SIGIR)
 - [Clicks can be Cheating: Counterfactual Recommendation for Mitigating Clickbait Issue](https://arxiv.org/pdf/2009.09945.pdf) (2021SIGIR)
 - [CauseRec: Counterfactual User Sequence Synthesis for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3404835.3462908) (2021SIGIR)
 - [Personalized Counterfactual Fairness in Recommendation](https://arxiv.org/pdf/2105.09829.pdf) (2021SIGIR)
-- [Counterfactual Data-Augmented Sequential Recommendation]() (2021SIGIR)
+- [Counterfactual Data-Augmented Sequential Recommendation](https://dl.acm.org/doi/10.1145/3404835.3462855) (2021 SIGIR)
 - [Counterfactual Reward Modification for Streaming Recommendation with Delayed Feedback]() (2021SIGIR)
 - [Counterfactual Explanations for Neural Recommenders](https://arxiv.org/abs/2105.05008) (2021SIGIR)
 - [The Simpson’s Paradox in the Offline Evaluation of Recommendation Systems](https://arxiv.org/pdf/2104.08912.pdf)(2021)
