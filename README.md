@@ -14,6 +14,7 @@ This is a list of papers about causality.
 
 
 ## Survey Paper
+- [D'ya like DAGs? A Survey on Structure Learning and Causal Discovery]() (2021)
 - [Causal Interpretability for Machine Learning -- Problems, Methods and Evaluation](https://arxiv.org/abs/2003.03934) (2020KDD)
 - [A Survey of Learning Causality with Data: Problems and Methods](https://arxiv.org/abs/1809.09337) (2020)
 - [A Survey on Causal Inference](https://arxiv.org/abs/2002.02770) (2020)
@@ -22,6 +23,16 @@ This is a list of papers about causality.
 - [ACIC 2018 Data Challenge](https://www.cmu.edu/acic2018/data-challenge/index.html) (2018ACIC)
 
 ## Foundamental Causality
+- [Estimating Identifiable Causal Effects on Markov Equivalence Class through Double Machine Learning]() (2021ICML)
+- [A Proxy Variable View of Shared Confounding]() (2021ICML)
+- [Valid Causal Inference with (Some) Invalid Instruments]() (2021ICML)
+- [Integer Programming for Causal Structure Learning in the Presence of Latent Variables]() (2021ICML)
+- [Operationalizing Complex Causes: A Pragmatic View of Mediation]() (2021ICML)
+- [Permutation Weighting]() (2021ICML)
+- [Quantifying Ignorance in Individual-Level Causal-Effect Estimates under Hidden Confounding]() (2021ICML)
+- [How and Why to Use Experimental Data to Evaluate Methods for Observational Causal Inference]() (2021ICML)
+- [Proximal Causal Learning with Kernels: Two-Stage Estimation and Moment Restriction]() (2021ICML)
+- [Model-Free and Model-Based Policy Evaluation when Causality is Uncertain]() (2021ICML)
 - [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning](https://arxiv.org/abs/1706.03461) (2019PNAS)
 - [Unit Selection Based on Counterfactual Logic](https://ftp.cs.ucla.edu/pub/stat_ser/r488.pdf) (2019IJCAI)
 - [Counterfactual regression with importance sampling weights](https://www.ijcai.org/Proceedings/2019/0815.pdf) (2019IJCAI)
@@ -31,7 +42,18 @@ This is a list of papers about causality.
 - [Towards a learning theory of cause-effect inference](http://proceedings.mlr.press/v37/lopez-paz15.html) (2015ICML)
 
 ## Causality in Machine Learning
+- [Causal Reasoning in Simulation for Structure and Transfer Learning of Robot Manipulation Policies](https://arxiv.org/abs/2103.16772) (2021ICRA)
 - [Generative Causal Explanations for Graph Neural Networks](https://arxiv.org/pdf/2104.06643.pdf)(2021ICML)
+- [Regularizing towards Causal Invariance: Linear Models with Proxies]() (2021ICML)
+- [Causality-aware counterfactual confounding adjustment as an alternative to linear residualization in anticausal prediction tasks based on linear learners]() (2021ICML)
+- [On Disentangled Representations Learned from Correlated Data]() (2021ICML)
+- [Modularity in Reinforcement Learning via Algorithmic Independence in Credit Assignment] (2021ICML)
+- [Domain Generalization using Causal Matching]() (2021ICML)
+- [Selecting Data Augmentation for Simulating Interventions]() (2021ICML)
+- [Necessary and sufficient conditions for causal feature selection in time series with latent common causes]() (2021ICML)
+- [Out-of-Distribution Generalization via Risk Extrapolation (REx)]() (2021ICML)
+- [Counterfactual Credit Assignment in Model-Free Reinforcement Learning]() (2021ICML)
+- [Size-Invariant Graph Representations for Graph Classification Extrapolations]() (2021ICML)
 - [Adapting Interactional Observation Embedding for Counterfactual Learning to Rank]() (2021SIGIR)
 - [Learning Individually Fair Classifier with Path-Specific Causal-Effect Constraint](http://proceedings.mlr.press/v130/chikahara21a.html)(2021AISTATS)
 - [Path-specific Counterfactual Fairness](https://ojs.aaai.org//index.php/AAAI/article/view/4777) (2019AAAI)
