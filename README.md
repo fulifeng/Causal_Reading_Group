@@ -31,7 +31,8 @@ This is a list of papers about causality.
 - [Towards a learning theory of cause-effect inference](http://proceedings.mlr.press/v37/lopez-paz15.html) (2015ICML)
 
 ## Causality in Machine Learning
-- [Generative Causal Explanations for Graph Neural Networks](https://arxiv.org/pdf/2104.06643.pdf)(ICML2021)
+- [Generative Causal Explanations for Graph Neural Networks](https://arxiv.org/pdf/2104.06643.pdf)(2021ICML)
+- [Adapting Interactional Observation Embedding for Counterfactual Learning to Rank]() (2021SIGIR)
 - [Learning Individually Fair Classifier with Path-Specific Causal-Effect Constraint](http://proceedings.mlr.press/v130/chikahara21a.html)(2021AISTATS)
 - [Path-specific Counterfactual Fairness](https://ojs.aaai.org//index.php/AAAI/article/view/4777) (2019AAAI)
 - [Counterfactual Fairness](https://proceedings.neurips.cc/paper/2017/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf) (2017 NIPS)
@@ -53,6 +54,11 @@ This is a list of papers about causality.
 - [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](https://arxiv.org/abs/2010.15363) (2021 KDD)
 - [Causal Intervention for Leveraging Popularity Bias in Recommendation](https://arxiv.org/abs/2105.06067)(2021 SIGIR)
 - [Clicks can be Cheating: Counterfactual Recommendation for Mitigating Clickbait Issue](https://arxiv.org/pdf/2009.09945.pdf) (2021SIGIR)
+- [CauseRec: Counterfactual User Sequence Synthesis for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3404835.3462908) (2021SIGIR)
+- [Personalized Counterfactual Fairness in Recommendation](https://arxiv.org/pdf/2105.09829.pdf) (2021SIGIR)
+- [Counterfactual Data-Augmented Sequential Recommendation]() (2021SIGIR)
+- [Counterfactual Reward Modification for Streaming Recommendation with Delayed Feedback]() (2021SIGIR)
+- [Counterfactual Explanations for Neural Recommenders](https://arxiv.org/abs/2105.05008) (2021SIGIR)
 - [The Simpson’s Paradox in the Offline Evaluation of Recommendation Systems](https://arxiv.org/pdf/2104.08912.pdf)(2021)
 - [PRINCE: Provider-side Interpretability with Counterfactual Explanations in Recommender Systems](https://arxiv.org/abs/1911.08378v4) (2020WSDM)
 - [Counterfactual Prediction for Bundle Treatment](https://proceedings.neurips.cc/paper/2020/file/e430ad64df3de73e6be33bcb7f6d0dac-Paper.pdf) (2020NeurIPS)
@@ -124,6 +130,7 @@ This is a list of papers about causality.
 
 
 ### Counterfactual Interpretability
+- [Counterfactual Explanations for Neural Recommenders](https://arxiv.org/abs/2105.05008) (2021SIGIR)
 - [Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://dl.acm.org/doi/abs/10.1145/3442188.3445899) (2021FAT)
 - [CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks](https://arxiv.org/pdf/2102.03322.pdf) (2021)
 - [Delta-CLUE Divere Sets of Explanations for Uncertainty Estimates](https://arxiv.org/abs/2104.06323) (2021ICLR workshop)
