@@ -153,7 +153,7 @@ This is a list of papers about causality.
 
 
 ### Counterfactual Interpretability
-- [Model-Based Counterfactual Synthesizer for Interpretation] (https://arxiv.org/pdf/2106.08971.pdf) (2021 KDD)
+- [Model-Based Counterfactual Synthesizer for Interpretation](https://arxiv.org/pdf/2106.08971.pdf) (2021 KDD)
 - [Counterfactual Explanations for Neural Recommenders](https://arxiv.org/abs/2105.05008) (2021SIGIR)
 - [Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://dl.acm.org/doi/abs/10.1145/3442188.3445899) (2021FAT)
 - [CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks](https://arxiv.org/pdf/2102.03322.pdf) (2021)
