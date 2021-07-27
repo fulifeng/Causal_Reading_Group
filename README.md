@@ -72,6 +72,7 @@ This is a list of papers about causality.
 - [Estimating Individual Treatment Effect in Observational Data Using Random Forest Methods](https://arxiv.org/pdf/1701.05306.pdf)(2018)
 
 ## Causal Recommendation
+- [Recommending the Most Effective Interventions to Improve Employment for Job Seekers with Disability] (2021 KDD)
 - [Deconfounded Recommendation for Alleviating Bias Amplification](https://arxiv.org/abs/2105.10648) (2021 KDD)
 - [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](https://arxiv.org/abs/2010.15363) (2021 KDD)
 - [Causal Intervention for Leveraging Popularity Bias in Recommendation](https://arxiv.org/abs/2105.06067)(2021 SIGIR)
@@ -152,6 +153,7 @@ This is a list of papers about causality.
 
 
 ### Counterfactual Interpretability
+- [Model-Based Counterfactual Synthesizer for Interpretation] (https://arxiv.org/pdf/2106.08971.pdf) (2021 KDD)
 - [Counterfactual Explanations for Neural Recommenders](https://arxiv.org/abs/2105.05008) (2021SIGIR)
 - [Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://dl.acm.org/doi/abs/10.1145/3442188.3445899) (2021FAT)
 - [CF-GNNExplainer: Counterfactual Explanations for Graph Neural Networks](https://arxiv.org/pdf/2102.03322.pdf) (2021)
