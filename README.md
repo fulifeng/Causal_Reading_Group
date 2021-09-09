@@ -72,7 +72,7 @@ This is a list of papers about causality.
 - [Estimating Individual Treatment Effect in Observational Data Using Random Forest Methods](https://arxiv.org/pdf/1701.05306.pdf)(2018)
 
 ## Causal Recommendation
-- [A Semi-Synthetic Dataset Generation Framework for Causal Inference in Recommender Systems] (2021)
+- [A Semi-Synthetic Dataset Generation Framework for Causal Inference in Recommender Systems](https://openreview.net/forum?id=OqPBtOcFJt-) (2021)
 - [Recommending the Most Effective Interventions to Improve Employment for Job Seekers with Disability] (2021 KDD)
 - [Deconfounded Recommendation for Alleviating Bias Amplification](https://arxiv.org/abs/2105.10648) (2021 KDD)
 - [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](https://arxiv.org/abs/2010.15363) (2021 KDD)
