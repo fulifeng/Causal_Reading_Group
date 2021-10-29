@@ -72,8 +72,14 @@ This is a list of papers about causality.
 - [Estimating Individual Treatment Effect in Observational Data Using Random Forest Methods](https://arxiv.org/pdf/1701.05306.pdf)(2018)
 
 ## Causal Recommendation
+- [Counterfactual Explainable Recommendation](https://arxiv.org/abs/2108.10539) (2021 CIKM) 
+- [Counterfactual Review-based Recommendation] (2021 CIKM)
+- [Top-N Recommendation with Counterfactual User Preference Simulation](https://arxiv.org/abs/2109.02444) (2021 CIKM)
+- [Causally Attentive Collaborative Filtering] (2021 CIKM)
+- [CauSeR: Causal Session-based Recommendations for Handling Popularity Bias] (2021 CIKM)
+- [CausCF: Causal Collaborative Filtering for Recommendation Effect Estimation](https://arxiv.org/pdf/2105.13881v1.pdf) (2021 CIKM)
 - [A Semi-Synthetic Dataset Generation Framework for Causal Inference in Recommender Systems](https://openreview.net/forum?id=OqPBtOcFJt-) (2021)
-- [Recommending the Most Effective Interventions to Improve Employment for Job Seekers with Disability] (2021 KDD)
+- [Recommending the Most Effective Interventions to Improve Employment for Job Seekers with Disability](https://dl.acm.org/doi/abs/10.1145/3447548.3467095) (2021 KDD)
 - [Deconfounded Recommendation for Alleviating Bias Amplification](https://arxiv.org/abs/2105.10648) (2021 KDD)
 - [Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System](https://arxiv.org/abs/2010.15363) (2021 KDD)
 - [Causal Intervention for Leveraging Popularity Bias in Recommendation](https://arxiv.org/abs/2105.06067)(2021 SIGIR)
