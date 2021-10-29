@@ -72,6 +72,7 @@ This is a list of papers about causality.
 - [Estimating Individual Treatment Effect in Observational Data Using Random Forest Methods](https://arxiv.org/pdf/1701.05306.pdf)(2018)
 
 ## Causal Recommendation
+- [Mitigating Confounding Bias in Recommendation via Information Bottleneck](https://dl.acm.org/doi/10.1145/3460231.3474263) (2021 RecSys)
 - [Online Evaluation Methods for the Causal Effect of Recommendations](https://dl.acm.org/doi/fullHtml/10.1145/3460231.3474235) (2021 RecSys)
 - [Counterfactual Explainable Recommendation](https://arxiv.org/abs/2108.10539) (2021 CIKM) 
 - [Counterfactual Review-based Recommendation] (2021 CIKM)
