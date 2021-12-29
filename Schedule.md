@@ -3,11 +3,26 @@ Here is the schedule of presenting in the reading group.
 
 ## Table of Contents
 - [Schedule](#schedule)
-	- [2nd Round (20 Feb 2020 - XX XXX 2021)](#2nd-round-12-Mar-2021---***)
+  - [3rd Round (Sep 2021 - Jan 2022)](#3nd-Round-sep-2021-Jan-2022))
+  - [2nd Round (20 Feb 2020 - XX XXX 2021)](#2nd-round-12-Mar-2021---***)
   - [1st Round (27 Sep 2020 - 10 Jan 2021)](#1st-round-27-sep-2020---10-jan-2021)
 
+## 3rd Round (sep 2021 - Jan 2022)
+| Date | Presenter | Paper |
+| :-----------: | :-----------: | :-----------: |
+| 09-29-2021 | 张及之 | CIKM2021-Top-N Recommendation with Counterfactual User Preference Simulation |
+| 10-13-2021 | 王晨旭 | KDD2021-DARING: Differentiable Causal Discovery with Residual Independence |
+| 10-27-2021 | 赵子豪 | RecSys2021-Mitigating Confounding Bias in Recommendation via Information Bottleneck |
+| 11-03-2021 | 丁斯昊 | KDD2021-Self-supervised Learning for Alleviating Selection Bias in Recommendation Systems  |
+| 11-17-2021 | 潘  航 | NIPS2020-Information Theoretic Counterfactual Learning from Missing-Not-At-Random Feedback |
+| 11-24-2021 | 高崇明 | pass |
+| 12-01-2021 | 王文杰 | KDD2020-Disentangled Self-Supervision in Sequential Recommenders|
+| 12-08-2021 | 陈佳佳 | NeuraIPS2021-Comprehensive Knowledge Distillation with Causal Intervention|
+| 12-15-2021 | 朱心远 | KDD2021-Explaining Algorithmic Fairness Through Fairness-Aware Causal Path Decomposition |
+| 12-22-2021 | 张  洋 | NAACL2021-Everything Has a Cause: Leveraging Causal Inference in Legal Text Analysis.|
+| :-----------: | :-----------: | :-----------: |
 
-## 2nd Round (12 Mar 2021 - ***)
+## 2nd Round (12 Mar 2021 - Aug 2021)
 | Date | Presenter | Paper |
 | :-----------: | :-----------: | :-----------: |
 | 3-23 | 张洋 | Counterfactual Zero-Shot and Open-Set Visual Recognition |
