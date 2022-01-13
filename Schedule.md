@@ -20,6 +20,8 @@ Here is the schedule of presenting in the reading group.
 | 12-08-2021 | 陈佳佳 | NeuraIPS2021-Comprehensive Knowledge Distillation with Causal Intervention|
 | 12-15-2021 | 朱心远 | KDD2021-Explaining Algorithmic Fairness Through Fairness-Aware Causal Path Decomposition |
 | 12-22-2021 | 张  洋 | NAACL2021-Everything Has a Cause: Leveraging Causal Inference in Legal Text Analysis.|
+| 12-29-2021 | 陈  钢 | SIGIR2021-Counterfactual Data-Augmented Sequential Recommendation.|
+| 01-14-2022 | 邓  迅 | JASA2019- The Blessings of Multiple Causes.|
 | :-----------: | :-----------: | :-----------: |
 
 ## 2nd Round (12 Mar 2021 - Aug 2021)
