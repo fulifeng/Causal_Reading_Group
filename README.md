@@ -72,7 +72,13 @@ This is a list of papers about causality.
 - [Estimating Individual Treatment Effect in Observational Data Using Random Forest Methods](https://arxiv.org/pdf/1701.05306.pdf)(2018)
 
 ## Causal Recommendation
-- [A Model-Agnostic Causal Learning Framework for Recommendation using Search Data](https://arxiv.org/pdf/2202.04514.pdf) (2022 WWW)
+- [Tutorial-Causal Recommendation: Progresses and Future Directions](https://causalrec.github.io/) (2022 WWW tutorial) 
+- [User-controllable Recommendation Against Filter Bubbles] (2022 SIGIR, counterfactual)
+- [ESCM^2: Entire Space Counterfactual Multi-Task Model for Post-Click Conversion Rate Estimation](https://arxiv.org/abs/2204.05125) (2022 SIGIR, IPW+multitask)
+- [Causal Disentanglement for Semantics-Aware Intent Learning in Recommendation](https://ieeexplore.ieee.org/document/9736612) (2022 TKDE, deconfounding)
+- [Rating Distribution Calibration for Selection Bias Mitigation in Recommendations](https://dl.acm.org/doi/10.1145/3485447.3512078)(2022 www, selection bias)
+- [Unbiased Sequential Recommendation with Latent Confounders](https://dl.acm.org/doi/10.1145/3485447.3512092) (2022 WWW, IPS for seqrec)
+- [A Model-Agnostic Causal Learning Framework for Recommendation using Search Data](https://arxiv.org/pdf/2202.04514.pdf) (2022 WWW, instrumental variable)
 - [CausPref: Causal Preference Learning for Out-of-Distribution Recommendation](https://arxiv.org/pdf/2202.03984.pdf) (2022 WWW)
 - [Estimating Causal Effects of Multi-Aspect Online Reviews with Multi-Modal Proxies](https://arxiv.org/pdf/2112.10274.pdf) (2022 WSDM)
 - [Towards Unbiased and Robust Causal Ranking for Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3488560.3498521) (2022 WSDM)
