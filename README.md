@@ -14,6 +14,7 @@ This is a list of papers about causality.
 
 
 ## Survey Paper
+- [Causal Machine Learning: A Survey and Open Problems] (https://arxiv.org/abs/2206.15475)(2022)
 - [D'ya like DAGs? A Survey on Structure Learning and Causal Discovery]() (2021)
 - [Causal Interpretability for Machine Learning -- Problems, Methods and Evaluation](https://arxiv.org/abs/2003.03934) (2020KDD)
 - [A Survey of Learning Causality with Data: Problems and Methods](https://arxiv.org/abs/1809.09337) (2020)
@@ -72,6 +73,8 @@ This is a list of papers about causality.
 - [Estimating Individual Treatment Effect in Observational Data Using Random Forest Methods](https://arxiv.org/pdf/1701.05306.pdf)(2018)
 
 ## Causal Recommendation
+- [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation.](https://arxiv.org/abs/2206.06003)(2022KDD,backdoor for duration bias)  
+- [Addressing Unmeasured Confounder for Recommendation with Sensitivity Analysis](http://staff.ustc.edu.cn/~hexn/papers/kdd22-deconfound-rec.pdf)(2022SIGIR,Adversarial IPS --> unmeasured confounder) 
 - [Tutorial-Causal Recommendation: Progresses and Future Directions](https://causalrec.github.io/) (2022 WWW tutorial) 
 - [User-controllable Recommendation Against Filter Bubbles] (2022 SIGIR, counterfactual)
 - [ESCM^2: Entire Space Counterfactual Multi-Task Model for Post-Click Conversion Rate Estimation](https://arxiv.org/abs/2204.05125) (2022 SIGIR, IPW+multitask)
@@ -121,6 +124,7 @@ This is a list of papers about causality.
 - [Estimating the Causal Impact of Recommendation Systems from Observational Data](https://arxiv.org/abs/1510.04342) (2015ACMEC)
 - [Evaluating Online Ad Campaigns in a Pipeline: Causal Models At Scale](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36552.pdf) (2010KDD)
 
+
 ## Causal Computer Vision
 - [Interventional Video Grounding with Dual Contrastive Learning](https://arxiv.org/pdf/2106.11013.pdf) (2021CVPR)
 - [Deconfounded Video Moment Retrieval with Causal Intervention](https://arxiv.org/pdf/2106.01534.pdf) (2021SIGIR)
@@ -148,8 +152,11 @@ This is a list of papers about causality.
 - [Identifying Spurious Correlations for Robust Text Classification](https://arxiv.org/pdf/2010.02458.pdf) (2020EMNLP)
 - [Feature Selection as Causal Inference: Experiments with Text Classification](https://www.aclweb.org/anthology/K17-1018/) (2017CoNLL)
 
+
+
 ## Causal Interpretability
 ### Causal Discovery
+- [OrphicX: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks](https://arxiv.org/pdf/2203.15209.pdf)(2022CVPR)
 - [CausalVAE: Disentangled Representation Learning via Neural Structural Causal Models](https://arxiv.org/pdf/2004.08697.pdf)(2021CVPR)
 - [Disentangled Generative Causal Representation Learning](https://arxiv.org/pdf/2010.02637.pdf)
 - [Causal Inference with Deep Causal Graphs](https://arxiv.org/abs/2006.08380)
