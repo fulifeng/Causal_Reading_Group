@@ -74,9 +74,11 @@ This is a list of papers about causality.
 
 ## Causal Recommendation
 - [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation.](https://arxiv.org/abs/2206.06003)(2022KDD,backdoor for duration bias)  
-- [Addressing Unmeasured Confounder for Recommendation with Sensitivity Analysis](http://staff.ustc.edu.cn/~hexn/papers/kdd22-deconfound-rec.pdf)(2022SIGIR,Adversarial IPS --> unmeasured confounder) 
+- [Addressing Unmeasured Confounder for Recommendation with Sensitivity Analysis](http://staff.ustc.edu.cn/~hexn/papers/kdd22-deconfound-rec.pdf)(2022KDD,Adversarial IPS --> unmeasured confounder)
+- [Mitigating Hidden Confounding Effects for Causal Recommendation](https://arxiv.org/abs/2205.07499)(2022arxive,frontdoor)
+- [Addressing Confounding Feature Issue for Causal Recommendation](https://arxiv.org/abs/2205.06532) (2022 arxiv,casual effect + pathe-specific causal effect)
 - [Tutorial-Causal Recommendation: Progresses and Future Directions](https://causalrec.github.io/) (2022 WWW tutorial) 
-- [User-controllable Recommendation Against Filter Bubbles] (2022 SIGIR, counterfactual)
+- [User-controllable Recommendation Against Filter Bubbles](https://arxiv.org/pdf/2204.13844.pdf)(2022 SIGIR, counterfactual)
 - [ESCM^2: Entire Space Counterfactual Multi-Task Model for Post-Click Conversion Rate Estimation](https://arxiv.org/abs/2204.05125) (2022 SIGIR, IPW+multitask)
 - [Causal Disentanglement for Semantics-Aware Intent Learning in Recommendation](https://ieeexplore.ieee.org/document/9736612) (2022 TKDE, deconfounding)
 - [Rating Distribution Calibration for Selection Bias Mitigation in Recommendations](https://dl.acm.org/doi/10.1145/3485447.3512078)(2022 www, selection bias)
