@@ -73,6 +73,7 @@ This is a list of papers about causality.
 - [Estimating Individual Treatment Effect in Observational Data Using Random Forest Methods](https://arxiv.org/pdf/1701.05306.pdf)(2018)
 
 ## Causal Recommendation
+- [On the Opportunity of Causal Learning in Recommendation Systems: Foundation, Estimation, Prediction and Challenges (https://www.ijcai.org/proceedings/2022/0787.pdf)(2022IJCAI, causal analysis framework)
 - [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation.](https://arxiv.org/abs/2206.06003)(2022KDD,backdoor for duration bias)  
 - [Addressing Unmeasured Confounder for Recommendation with Sensitivity Analysis](http://staff.ustc.edu.cn/~hexn/papers/kdd22-deconfound-rec.pdf)(2022KDD,Adversarial IPS --> unmeasured confounder)
 - [Mitigating Hidden Confounding Effects for Causal Recommendation](https://arxiv.org/abs/2205.07499)(2022arxive,frontdoor)
