@@ -14,7 +14,7 @@ This is a list of papers about causality.
 
 
 ## Survey Paper
-- [Causal Machine Learning: A Survey and Open Problems] (https://arxiv.org/abs/2206.15475)(2022)
+- [Causal Machine Learning: A Survey and Open Problems](https://arxiv.org/abs/2206.15475) (2022)
 - [D'ya like DAGs? A Survey on Structure Learning and Causal Discovery]() (2021)
 - [Causal Interpretability for Machine Learning -- Problems, Methods and Evaluation](https://arxiv.org/abs/2003.03934) (2020KDD)
 - [A Survey of Learning Causality with Data: Problems and Methods](https://arxiv.org/abs/1809.09337) (2020)
