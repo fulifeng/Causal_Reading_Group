@@ -80,7 +80,7 @@ This is a list of papers about causality.
 - [Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation.](https://arxiv.org/abs/2206.06003)(2022KDD,backdoor for duration bias)  
 - [Addressing Unmeasured Confounder for Recommendation with Sensitivity Analysis](http://staff.ustc.edu.cn/~hexn/papers/kdd22-deconfound-rec.pdf)(2022KDD,Adversarial IPS --> unmeasured confounder)
 - [Mitigating Hidden Confounding Effects for Causal Recommendation](https://arxiv.org/abs/2205.07499)(2022arxive,frontdoor)
-- [Addressing Confounding Feature Issue for Causal Recommendation](https://arxiv.org/abs/2205.06532) (2022 arxiv,casual effect + pathe-specific causal effect)
+- [Addressing Confounding Feature Issue for Causal Recommendation](https://arxiv.org/abs/2205.06532) (2022 TOIS,casual effect + pathe-specific causal effect)
 - [Tutorial-Causal Recommendation: Progresses and Future Directions](https://causalrec.github.io/) (2022 WWW tutorial) 
 - [User-controllable Recommendation Against Filter Bubbles](https://arxiv.org/pdf/2204.13844.pdf)(2022 SIGIR, counterfactual)
 - [ESCM^2: Entire Space Counterfactual Multi-Task Model for Post-Click Conversion Rate Estimation](https://arxiv.org/abs/2204.05125) (2022 SIGIR, IPW+multitask)
