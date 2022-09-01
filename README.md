@@ -71,6 +71,7 @@ This is a list of papers about causality.
 - [Estimating individual treatment effect: generalization bounds and algorithms](https://arxiv.org/pdf/1606.03976.pdf)(2017)
 - [Causal Decision Trees](https://arxiv.org/pdf/1508.03812.pdf)(2020)
 - [Estimating Individual Treatment Effect in Observational Data Using Random Forest Methods](https://arxiv.org/pdf/1701.05306.pdf)(2018)
+- [Causal Machine Learning](https://www.manning.com/books/causal-machine-learning)(2022) - Early access
 
 ## Causal Recommendation
 - [CausalInt: Causal Inspired Intervention for Multi-Domain Recommendation](2022KDD)
